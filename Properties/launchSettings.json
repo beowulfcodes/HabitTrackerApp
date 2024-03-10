@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HabitTrackerApp": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\TheC#Academy\\HabitTrackerApp"
+    }
+  }
+}
